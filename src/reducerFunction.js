@@ -3,7 +3,7 @@ const reducerFunction = (
     data: [
       { label: "Bijli Bill", cost: "" },
       { label: "Mali", cost: "-175" },
-      { label: "Dukaan", cost: "1250" },
+      { label: "Dukaan", cost: "1500" },
     ],
     isTableVisible: false,
     totalSum: 0,
